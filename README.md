@@ -1,5 +1,5 @@
 # Stopwatch
 Chapter 4 stopwatch app
-![alt tag](https://raw.github.com/TRO-draws.com/TRO-draws/Stopwatch/screenshot/static.PNG)
+![static.png](https://raw.github.com/TRO-draws.com/TRO-draws/Stopwatch/screenshot/static.PNG)
 
 
