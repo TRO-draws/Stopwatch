@@ -1,5 +1,5 @@
 # Stopwatch
 Chapter 4 stopwatch app
-![ScreenShot](https://rgithub.com/TRO-draws/Stopwatch/screenshot/static.PNG)
+![Alt text](https://github.com/TRO-draws/Stopwatch/blob/master/screenshot/static.PNG "Start Screen")
 
 
