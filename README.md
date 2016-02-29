@@ -1,5 +1,7 @@
 # Stopwatch
 Chapter 4 stopwatch app
-![Alt text](https://github.com/TRO-draws/Stopwatch/blob/master/screenshot/static.PNG "Start Screen")
-
+<b>Start Screen</b>
+![Alt text](https://github.com/TRO-draws/Stopwatch/blob/master/screenshot/static.PNG )
+<b>Running Screen</b>
+![Alt text](https://github.com/TRO-draws/Stopwatch/blob/master/screenshot/running.PNG)
 
