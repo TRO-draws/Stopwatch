@@ -2,15 +2,15 @@
 <p><b>Norawalk High School</b> -- Project Lead The Way (PLTW) Computer Science:computer:</p>
 <p><b>Class:</b> Computer Science Applications(CSA)-- 2nd Year Sophomore</p>
 <h2><p><i>Example Screenshots of the app start screen and the app running</i></p></h2>
-
+<p>
 <b>Start Screen:octocat:</b>
 
 ![Alt text](https://github.com/TRO-draws/Stopwatch/blob/master/screenshot/static.PNG )
-<h2></h2>
+<br></br>
 
 <b>Running Screen:octocat:</b>
 
 ![Alt text](https://github.com/TRO-draws/Stopwatch/blob/master/screenshot/running.PNG)
 
-<h2></h2>
+<br></br>
 
