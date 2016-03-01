@@ -6,8 +6,11 @@
 <b>Start Screen:octocat:</b>
 
 ![Alt text](https://github.com/TRO-draws/Stopwatch/blob/master/screenshot/static.PNG )
+<h2></h2>
 
 <b>Running Screen:octocat:</b>
 
 ![Alt text](https://github.com/TRO-draws/Stopwatch/blob/master/screenshot/running.PNG)
+
+<h2></h2>
 
