@@ -4,8 +4,10 @@
 <h2><p><i>Example Screenshots of the app start screen and the app running</i></p></h2>
 
 <b>Start Screen:octocat:</b>
+
 ![Alt text](https://github.com/TRO-draws/Stopwatch/blob/master/screenshot/static.PNG )
 
 <b>Running Screen:octocat:</b>
+
 ![Alt text](https://github.com/TRO-draws/Stopwatch/blob/master/screenshot/running.PNG)
 
